@@ -66,6 +66,11 @@ button {
   cursor: pointer;
   transition: background-color 0.2s ease;
 }
+button:hover {
+  cursor: pointer;
+  background-color: #0055b6;
+  color: white;
+}
 
 /* User Card */
 .user-card {
